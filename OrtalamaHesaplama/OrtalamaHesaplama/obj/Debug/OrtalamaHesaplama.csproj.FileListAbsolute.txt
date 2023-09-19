@@ -1,0 +1,7 @@
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\bin\Debug\OrtalamaHesaplama.exe.config
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\bin\Debug\OrtalamaHesaplama.exe
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\bin\Debug\OrtalamaHesaplama.pdb
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.exe
+C:\Users\ali\source\repos\OrtalamaHesaplama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.pdb
