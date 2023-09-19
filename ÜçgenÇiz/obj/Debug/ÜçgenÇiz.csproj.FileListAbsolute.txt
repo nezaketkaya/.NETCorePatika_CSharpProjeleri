@@ -1,0 +1,7 @@
+C:\Users\ali\source\repos\ÜçgenÇiz\bin\Debug\ÜçgenÇiz.exe.config
+C:\Users\ali\source\repos\ÜçgenÇiz\bin\Debug\ÜçgenÇiz.exe
+C:\Users\ali\source\repos\ÜçgenÇiz\bin\Debug\ÜçgenÇiz.pdb
+C:\Users\ali\source\repos\ÜçgenÇiz\obj\Debug\ÜçgenÇiz.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\ÜçgenÇiz\obj\Debug\ÜçgenÇiz.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\ÜçgenÇiz\obj\Debug\ÜçgenÇiz.exe
+C:\Users\ali\source\repos\ÜçgenÇiz\obj\Debug\ÜçgenÇiz.pdb
