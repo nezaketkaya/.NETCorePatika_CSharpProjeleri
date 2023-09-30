@@ -1,0 +1,7 @@
+C:\Users\ali\source\repos\DaireCiz\bin\Debug\DaireCiz.exe.config
+C:\Users\ali\source\repos\DaireCiz\bin\Debug\DaireCiz.exe
+C:\Users\ali\source\repos\DaireCiz\bin\Debug\DaireCiz.pdb
+C:\Users\ali\source\repos\DaireCiz\obj\Debug\DaireCiz.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\DaireCiz\obj\Debug\DaireCiz.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\DaireCiz\obj\Debug\DaireCiz.exe
+C:\Users\ali\source\repos\DaireCiz\obj\Debug\DaireCiz.pdb
