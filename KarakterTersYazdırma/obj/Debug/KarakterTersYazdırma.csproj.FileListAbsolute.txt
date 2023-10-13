@@ -1,0 +1,7 @@
+C:\Users\ali\source\repos\KarakterTersYazdırma\bin\Debug\KarakterTersYazdırma.exe.config
+C:\Users\ali\source\repos\KarakterTersYazdırma\bin\Debug\KarakterTersYazdırma.exe
+C:\Users\ali\source\repos\KarakterTersYazdırma\bin\Debug\KarakterTersYazdırma.pdb
+C:\Users\ali\source\repos\KarakterTersYazdırma\obj\Debug\KarakterTersYazdırma.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\KarakterTersYazdırma\obj\Debug\KarakterTersYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\KarakterTersYazdırma\obj\Debug\KarakterTersYazdırma.exe
+C:\Users\ali\source\repos\KarakterTersYazdırma\obj\Debug\KarakterTersYazdırma.pdb
