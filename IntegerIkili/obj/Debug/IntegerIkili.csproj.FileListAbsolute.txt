@@ -1,0 +1,7 @@
+C:\Users\ali\source\repos\IntegerIkili\bin\Debug\IntegerIkili.exe.config
+C:\Users\ali\source\repos\IntegerIkili\bin\Debug\IntegerIkili.exe
+C:\Users\ali\source\repos\IntegerIkili\bin\Debug\IntegerIkili.pdb
+C:\Users\ali\source\repos\IntegerIkili\obj\Debug\IntegerIkili.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\IntegerIkili\obj\Debug\IntegerIkili.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\IntegerIkili\obj\Debug\IntegerIkili.exe
+C:\Users\ali\source\repos\IntegerIkili\obj\Debug\IntegerIkili.pdb
